@@ -1,7 +1,7 @@
 # SQL_FoodSellerStore
 
-Context: Northwind Store is the food seller store, and since it's coming to end-of-finance year
-The store management want to grab some insight and business situation 
+Context: Northwind Store is the food seller store, and since it's coming to end-of-finance year.
+The store management want to grab some insight and business situation. 
 All their data of seller and transaction .. is stored in database 
 
 This repository contain 2 parts:
