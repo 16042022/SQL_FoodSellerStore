@@ -1,8 +1,10 @@
 # SQL_GloceryrStore
 
-Context: Northwind Store is a glocery seller store, and since it's coming to the end-of-finance year.
-The store management wants to grab some insight and the business situation. 
-All their data of seller and transaction .. is stored in a database 
+Context: Northwind Store is a grocery seller store, and since it's coming to the end-of-finance year.
+The store management wants to gain some insight into the business situation. 
+All their data of seller and transaction .. is stored in a database, with the schema as below:
+
+![image](https://github.com/16042022/SQL_GloceryStore/assets/103804572/f0e73030-97f6-4c16-903c-316b2889f996)
 
 This repository contains 2 parts:
 - Report file: in .pptx => conclude the result of finance
