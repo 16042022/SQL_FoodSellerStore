@@ -1,4 +1,4 @@
-# SQL_GloceryrStore
+# SQL_GloceryStore
 
 Context: Northwind Store is a grocery seller store, and since it's coming to the end-of-finance year.
 The store management wants to gain some insight into the business situation. 
