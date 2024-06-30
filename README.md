@@ -8,7 +8,7 @@ All their data of seller and transaction .. is stored in a database, with the sc
 
 This repository contains 2 parts:
 - Report file: in .pptx => conclude the result of finance
-- SQL query file : description how to get information of report
+- SQL query file : description how to get information of report  
 // The database file (.bak) is absent for privacy reason
 
 UPDATE:
